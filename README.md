@@ -1,12 +1,10 @@
-## NextJS boilerplate
+## React State Management
 
-This is a [Next.js](https://nextjs.org/) boilerplate used for my personal projects, it was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a repo to study about state managers implementatios. The ideia is to manage a favorites list of Rick and Morty characters using different tools:
 
-Currently it has
-
-- [x] Typescript
-- [x] Eslint + Prettier
-- [x] Styled Components
+- [ ] Redux
+- [ ] Mobx
+- [ ] Context API
 
 ### Start the development server
 After installing the dependecies, you can run
